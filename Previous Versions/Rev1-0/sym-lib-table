@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name electronics-function-generator)(type Legacy)(uri ${KIPRJMOD}/electronics-function-generator.lib)(options "")(descr ""))
+)
